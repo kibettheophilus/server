@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "viewType": "verticalScroll",
+      "data": [
+        {
+          "viewType": "image",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bitbank-32370.appspot.com/o/Group%20363.png?alt=media&token=7842c9b9-7dfa-4c2e-8f19-801490cd3ec5",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-92f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "text",
+          "title": "Welcome to the largest Android Focussed Developer community in Africa",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "image",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bitbank-32370.appspot.com/o/Group%2012.png?alt=media&token=33467481-6d83-460a-ab31-b6b731bc693b",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-92f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "button",
+          "title": "Submit talk!",
+          "action": {
+            "type": 1,
+            "value": "https://sessionize.com/droidcon-kenya-2024"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "verticalScroll",
+      "data": [
+        {
+          "viewType": "text",
+          "title": "Sessions",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "horizontalScroll",
+      "data": [
+        {
+          "viewType": "session",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bitbank-32370.appspot.com/o/Group%2012.png?alt=media&token=33467481-6d83-460a-ab31-b6b731bc693b",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-92f6-09f0b80d1061"
+          },
+          "meta": {
+            "height": "200"
+          }
+        },
+        {
+          "viewType": "session",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bitbank-32370.appspot.com/o/Group%2012.png?alt=media&token=33467481-6d83-460a-ab31-b6b731bc693b",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-92f6-09f0b80d1061"
+          },
+          "meta": {
+            "height": "200"
+          }
+        },
+        {
+          "viewType": "session",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bitbank-32370.appspot.com/o/Group%2012.png?alt=media&token=33467481-6d83-460a-ab31-b6b731bc693b",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-92f6-09f0b80d1061"
+          },
+          "meta": {
+            "height": "200"
+          }
+        },
+        {
+          "viewType": "session",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bitbank-32370.appspot.com/o/Group%2012.png?alt=media&token=33467481-6d83-460a-ab31-b6b731bc693b",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-92f6-09f0b80d1061"
+          },
+          "meta": {
+            "height": "200"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "verticalScroll",
+      "data": [
+        {
+          "viewType": "text",
+          "title": "Speakers",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "horizontalScroll",
+      "data": [
+        {
+          "viewType": "speaker",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bitbank-32370.appspot.com/o/IMG_20220812_234640%20(1).jpg?alt=media&token=1ab3949d-2c3a-46a8-8e7a-8b9363d1b419",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-92f6-09f0b80d1061"
+          },
+          "meta": {
+            "height": "200"
+          }
+        },
+        {
+          "viewType": "speaker",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bitbank-32370.appspot.com/o/IMG_20220812_234640%20(1).jpg?alt=media&token=1ab3949d-2c3a-46a8-8e7a-8b9363d1b419",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-92f6-09f0b80d1061"
+          },
+          "meta": {
+            "height": "200"
+          }
+        },
+        {
+          "viewType": "speaker",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bitbank-32370.appspot.com/o/IMG_20220812_234640%20(1).jpg?alt=media&token=1ab3949d-2c3a-46a8-8e7a-8b9363d1b419",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-92f6-09f0b80d1061"
+          },
+          "meta": {
+            "height": "200"
+          }
+        },
+        {
+          "viewType": "speaker",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bitbank-32370.appspot.com/o/IMG_20220812_234640%20(1).jpg?alt=media&token=1ab3949d-2c3a-46a8-8e7a-8b9363d1b419",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-92f6-09f0b80d1061"
+          },
+          "meta": {
+            "height": "200"
+          }
+        }
+      ]
+    }
+  ]
+}
