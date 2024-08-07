@@ -26,6 +26,14 @@
             "type": 1,
             "value": "d43e24ca-3522-4106-92f6-09f0b80d1061"
           }
+        },
+                {
+          "viewType": "button",
+          "title": "Submit talk!",
+          "action": {
+            "type": 1,
+            "value": "https://sessionize.com/droidcon-kenya-2024"
+          }
         }
       ]
     },
